@@ -1,0 +1,12 @@
+{
+  "name": "js_form_validation_sheeba",
+  "version": "1.0.0",
+  "description": "Here is a simple login Form create using javascript and Html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
